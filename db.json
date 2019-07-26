@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "mode": 1,
+  "androidVersion": "1.0.1000",
+  "iosVersion": "1.0.1000",
+  "messageTitle": "WEBSITE MAINTENANCE NOTICE:",
+  "messageDescription": "The Application is in maintenance mode from 07/25/2019 9:00 to 07/25/2019 12:00"
 }
